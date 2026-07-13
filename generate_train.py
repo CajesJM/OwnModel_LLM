@@ -27,9 +27,19 @@ facts = {
         "tag": "Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan."
     },
     "creator": {
-        "en": "Arisu.exe created this AI assistant for TMC.",
-        "ceb": "Si Arisu.exe ang naghimo niining AI assistant para sa TMC.",
-        "tag": "Si Arisu.exe ang gumawa ng AI assistant na ito para sa TMC."
+        "en": "CajesJM created this AI assistant for TMC.",
+        "ceb": "Si CajesJM ang naghimo niining AI assistant para sa TMC.",
+        "tag": "Si CajesJM ang gumawa ng AI assistant na ito para sa TMC."
+    },
+    "about": {
+    "en": "TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.",
+    "ceb": "Ang TMC nagpasabot og Trinidad Municipal College, usa ka publikong institusyon sa edukasyon nga nahimutang sa Trinidad, Bohol, Pilipinas.",
+    "tag": "Ang TMC ay para sa Trinidad Municipal College, isang pampublikong institusyong pang-edukasyon na matatagpuan sa Trinidad, Bohol, Pilipinas."
+    },
+    "identity": {
+    "en": "I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.",
+    "ceb": "Ako si Cypher, ang AI assistant sa Trinidad Municipal College (TMC). Makatubag ko sa mga pangutana bahin sa vision, mission, slogan, philosophy, goal, ug creator sa TMC.",
+    "tag": "Ako si Cypher, ang AI assistant ng Trinidad Municipal College (TMC). Kaya kong sagutin ang mga tanong tungkol sa vision, mission, slogan, philosophy, goal, at creator ng TMC."
     }
 }
 
@@ -158,13 +168,37 @@ english_templates = {
         "Who's your maker?",
         "Who built this TMC assistant?",
         "Who wrote the code for this AI?",
-        "Who is Arisu.exe?",
+        "Who is CajesJM?",
         "Who created the TMC AI?",
         "Who's behind this AI?",
         "By whom were you created?",
         "What person made this AI?",
         "Who is your developer?",
         "Who made this TMC bot?"
+    ],
+    "about": [
+        "What is TMC?",
+        "TMC stands for?",
+        "What does TMC stand for?",
+        "What does TMC mean?",
+        "Tell me about TMC.",
+        "What is TMC as a school?",
+        "Where is TMC located?",
+        "What kind of institution is TMC?",
+        "TMC full name?",
+        "What is the full name of TMC?"
+    ],
+    "identity": [
+        "Who are you?",
+        "What are you?",
+        "Are you an AI?",
+        "Are you a chatbot?",
+        "What can you do?",
+        "What do you do?",
+        "Introduce yourself.",
+        "Tell me about yourself.",
+        "What is your purpose?",
+        "What can you answer?"
     ]
 }
 
@@ -293,14 +327,27 @@ cebuano_templates = {
         "Kinsa ang imong tighimo?",
         "Kinsa ang nagtukod niining TMC assistant?",
         "Kinsa ang nagsulat sa code para niining AI?",
-        "Kinsa si Arisu.exe?",
+        "Kinsa si CajesJM?",
         "Kinsa ang naghimo sa TMC AI?",
         "Kinsa ang naa sa luyo niining AI?",
         "Kang kinsa ka gibuhat?",
         "Unsang tawhana ang naghimo niining AI?",
         "Kinsa ang imong developer?",
         "Kinsa ang naghimo niining TMC bot?"
-    ]
+    ],
+    "about": [
+        "Unsa ang TMC?",
+        "Unsa ang gipasabot sa TMC?",
+        "Asa nahimutang ang TMC?",
+        "Sultihi ko bahin sa TMC."
+    ],
+    "identity": [
+        "Kinsa ka?",
+        "Unsa ka?",
+        "AI ka ba?",
+        "Unsa ang imong mahimo?",
+        "Ipaila ang imong kaugalingon."
+]
 }
 
 tagalog_templates = {
@@ -428,20 +475,48 @@ tagalog_templates = {
         "Sino ang iyong gumawa?",
         "Sino ang nagtayo ng TMC assistant na ito?",
         "Sino ang sumulat ng code para sa AI na ito?",
-        "Sino si Arisu.exe?",
+        "Sino si CajesJM?",
         "Sino ang gumawa ng TMC AI?",
         "Sino ang nasa likod ng AI na ito?",
         "Kanino ka ginawa?",
         "Sinong tao ang gumawa ng AI na ito?",
         "Sino ang iyong developer?",
         "Sino ang gumawa ng TMC bot na ito?"
+    ],
+    "about": [
+        "Ano ang TMC?",
+        "Ano ang ibig sabihin ng TMC?",
+        "Saan matatagpuan ang TMC?",
+        "Sabihin mo sa akin ang tungkol sa TMC."
+    ],
+    "identity": [
+        "Sino ka?",
+        "Ano ka?",
+        "AI ka ba?",
+        "Ano ang kaya mong gawin?",
+        "Ipakilala mo ang sarili mo."
     ]
 }
+
+keyword_variants = {
+    "vision":     ["vision", "Vision", "VISION"],
+    "mission":    ["mission", "Mission", "MISSION"],
+    "slogan":     ["slogan", "Slogan", "motto", "tagline"],
+    "philosophy": ["philosophy", "Philosophy", "pilosopiya"],
+    "goal":       ["goal", "Goal", "goals", "GOALS"],
+    "creator":    ["creator", "who made you", "developer", "CajesJM"],
+    "about":    ["TMC", "about TMC"],
+    "identity": ["who are you", "what are you"]
+}
+
+for topic, keywords in keyword_variants.items():
+    for kw in keywords:
+        english_templates[topic].append(kw)
 
 # ---- GENERATE ALL PAIRS ----
 all_pairs = []
 
-for topic in ["vision", "mission", "slogan", "philosophy", "goal", "creator"]:
+for topic in ["vision", "mission", "slogan", "philosophy", "goal", "creator", "about", "identity"]:
     # English
     for q in english_templates[topic]:
         all_pairs.append((q, facts[topic]["en"]))
@@ -452,6 +527,9 @@ for topic in ["vision", "mission", "slogan", "philosophy", "goal", "creator"]:
     for q in tagalog_templates[topic]:
         all_pairs.append((q, facts[topic]["tag"]))
 
+    for kw in keyword_variants[topic]:
+        for _ in range(5):
+            all_pairs.append((kw, facts[topic]["en"]))
 
 # Shuffle to mix topics
 random.shuffle(all_pairs)

@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
+
 class Head(nn.Module):
     def __init__(self, head_size, n_embd, block_size, dropout):
         super().__init__()
@@ -23,6 +24,7 @@ class Head(nn.Module):
         out = wei @ v
         return out
 
+
 class MultiHeadAttention(nn.Module):
     def __init__(self, num_heads, head_size, n_embd, block_size, dropout):
         super().__init__()
@@ -35,6 +37,7 @@ class MultiHeadAttention(nn.Module):
         out = self.dropout(self.proj(out))
         return out
 
+
 class FeedFoward(nn.Module):
     def __init__(self, n_embd, dropout):
         super().__init__()
@@ -44,8 +47,10 @@ class FeedFoward(nn.Module):
             nn.Linear(4 * n_embd, n_embd),
             nn.Dropout(dropout),
         )
+
     def forward(self, x):
         return self.net(x)
+
 
 class Block(nn.Module):
     def __init__(self, n_embd, n_head, block_size, dropout):
@@ -60,6 +65,7 @@ class Block(nn.Module):
         x = x + self.sa(self.ln1(x))
         x = x + self.ffwd(self.ln2(x))
         return x
+
 
 class MiniGPT(nn.Module):
     def __init__(self, vocab_size, n_embd=128, n_head=4, n_layer=4, block_size=256, dropout=0.1):
@@ -87,9 +93,18 @@ class MiniGPT(nn.Module):
             logits = logits.view(B*T, C)
             targets = targets.view(B*T)
             loss = F.cross_entropy(logits, targets)
+
         return logits, loss
 
-    def generate(self, idx, max_new_tokens):
+    @torch.no_grad()
+    def generate(self, idx, max_new_tokens, tokenizer=None, stop_str="Q:"):
+        """
+        Autoregressively generate up to max_new_tokens.
+        If a tokenizer is provided, generation stops early as soon as the
+        decoded text ends with stop_str (the "end of answer" marker used
+        in training: completion = answer + "Q:\\n").
+        """
+        self.eval()
         for _ in range(max_new_tokens):
             idx_cond = idx[:, -self.block_size:]
             logits, _ = self(idx_cond)
@@ -97,4 +112,10 @@ class MiniGPT(nn.Module):
             probs = F.softmax(logits, dim=-1)
             idx_next = torch.argmax(probs, dim=-1, keepdim=True)
             idx = torch.cat((idx, idx_next), dim=1)
+
+            if tokenizer is not None:
+                decoded = tokenizer.decode(idx[0].tolist())
+                if decoded.rstrip().endswith(stop_str):
+                    break
+
         return idx

@@ -34,7 +34,6 @@ tokenizer = CharTokenizer(text)
 tokenizer.save('tokenizer.json')
 vocab_size = tokenizer.vocab_size
 
-# Convert pairs to tensor sequences
 data = []
 for q, a in pairs:
     prompt = f"Q: {q}\nA:"
@@ -46,7 +45,6 @@ for q, a in pairs:
 model = MiniGPT(vocab_size, n_embd, n_head, n_layer, block_size, dropout)
 optimizer = AdamW(model.parameters(), lr=learning_rate)
 
-# Learning rate scheduler: after 12000 steps, reduce by factor of 10
 scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=12000, gamma=0.1)
 
 def get_sample(model, tokenizer, question):
@@ -63,13 +61,13 @@ def get_sample(model, tokenizer, question):
 
 # Training loop
 for iter in range(max_iters):
-    # Sample a random pair
+   
     idx = torch.randint(len(data), (1,)).item()
     seq = data[idx]
     if len(seq) > block_size:
         start = torch.randint(len(seq) - block_size + 1, (1,)).item()
         seq = seq[start:start + block_size]
-    x = seq[:-1].unsqueeze(0)   # (1, seq_len-1)
+    x = seq[:-1].unsqueeze(0)  
     y = seq[1:].unsqueeze(0)
 
     logits, loss = model(x, y)

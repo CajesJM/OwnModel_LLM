@@ -1,77 +1,47 @@
-Q: Tell me about TMC's mission.
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: TMC stands for?
-A: Trinidad Municipal College
-
-Q: Unsa ng TMC?
-A: Trinidad Municipal College
-
-Q: Ano ang TMC?
-A: Trinidad Municipal College
-
-Q: Mahimo ba nimong isulti ang slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Sinong tao ang gumawa ng AI na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Sino ang gumawa sa iyo?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Ibigay ang vision ng TMC.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Unsa ang goal sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: What is the end target of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Sultihi ko kung kinsa ang nagtukod niining AI.
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: What is the slogan of TMC?
-A: TMC is committed to public educational services second to none.
-
-Q: Ipasabot ang vision sa TMC.
+Q: Ihatag ang vision sa TMC.
 A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
-Q: Ibigay ang philosophy ng TMC.
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+Q: Mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
-Q: Who developed this assistant?
-A: Cajes JM created this AI assistant for TMC.
+Q: Tell me about TMC's mission.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
 Q: Ano ang sinasabi ng slogan ng TMC?
 A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
 
-Q: Please repeat the TMC philosophy.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+Q: Pahayag ng slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
 
-Q: Tell me about TMC's goal.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Please repeat the TMC vision.
+Q: Can you state the vision of TMC?
 A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
 
-Q: Unsang tawhana ang naghimo niining AI?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
+Q: Ipasabot ang vision sa TMC.
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
-Q: Anong mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+Q: Sultihi ko sa philosophy sa TMC.
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
 
-Q: What values guide TMC according to its philosophy?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+Q: developer
+A: CajesJM created this AI assistant for TMC.
 
-Q: Sino ang responsable sa iyong pagkakalikha?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
+Q: Vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
 
-Q: Ilarawan ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+Q: goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
 
-Q: Ipakigbahin ang goal sa TMC.
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+Q: creator
+A: CajesJM created this AI assistant for TMC.
+
+Q: motto
+A: TMC is committed to public educational services second to none.
+
+Q: AI ka ba?
+A: Ako si Cypher, ang AI assistant sa Trinidad Municipal College (TMC). Makatubag ko sa mga pangutana bahin sa vision, mission, slogan, philosophy, goal, ug creator sa TMC.
+
+Q: Ihulagway ang vision sa TMC.
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
 Q: Gusto kong malaman ang vision ng TMC.
 A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
@@ -79,1013 +49,1598 @@ A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na 
 Q: Goal sa TMC?
 A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
 
-Q: Could you outline TMC's mission?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+Q: Goal of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
 
-Q: Vision statement of TMC?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+Q: Goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Pakiulit ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: slogan
+A: TMC is committed to public educational services second to none.
+
+Q: What does TMC stand for?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: What kind of institution is TMC?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
 
 Q: TMC goal: ano ito?
 A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
 
-Q: Maaari mo bang i-outline ang vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Sabihin mo sa akin ang philosophy ng TMC.
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Nahinumduman ba nimo ang slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Unsa ang institusyonal nga mission sa TMC?
+Q: Sultihi ko sa mission.
 A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Anong goal ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Pahayag ng slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Pahayag sa goal sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Pahayag ng philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: What is meant by the mission of TMC?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Unsay philosophy sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Philosophy of TMC?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: I want to know the goal of TMC.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
 
 Q: Palihug ihatag ang slogan sa TMC.
 A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
 
-Q: Gusto kong malaman ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Sino ang nag-develop ng assistant na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Ibigay ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Ipaliwanag ang philosophy ng TMC.
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: What is the mission of TMC?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Maaari mo bang sabihin ang philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Give me the TMC goal statement.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Ibigay ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Ibigay ang slogan ng TMC.
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Gusto kong mahibalo sa mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Tell me TMC's slogan.
-A: TMC is committed to public educational services second to none.
-
-Q: Gusto kong marinig ang slogan ng TMC.
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Ano ang adhikain ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Who is your developer?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Ano ang inaanunsyo ng TMC bilang slogan?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Kinsa ang naghimo sa TMC AI?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Tell me the goal.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Describe the TMC philosophy.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Ano ang inaasam ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: TMC goal: unsa kini?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Gusto kong mahibalo sa goal sa TMC.
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Can you state the mission of TMC?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Sino ang lumikha ng AI na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Unsa ang ngalan sa imong magbubuhat?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Kinsa ang naa sa luyo niining AI?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Ipasabot ang mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Goal of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Mission sa TMC?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Share the TMC philosophy.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: What is the official slogan of TMC?
-A: TMC is committed to public educational services second to none.
-
-Q: Sino ang gumawa ng TMC AI?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Sultihi ko sa mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Ihatag ang slogan sa TMC.
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Sino ang nagbigay sa iyo ng buhay?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Unsay slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Please repeat the TMC mission.
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Sabihin mo ang vision.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Pakiulit ang vision ng TMC.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Mahimo ba nimong isaysay ang philosophy sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Sino ang gumawa ng TMC bot na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Give me the TMC mission statement.
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Tell me the vision.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Gusto kong mahibalo sa vision sa TMC.
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Anong slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Ipasabot ang goal sa TMC.
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Ano ang goal ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: TMC slogan please.
-A: TMC is committed to public educational services second to none.
-
-Q: TMC philosophy: what is it?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Ihulagway ang goal sa TMC.
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Sino si Cajes JM?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Unsa ang gituohan sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Giunsa pagpresentar sa TMC ang kaugalingon sa pipila ka pulong?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Give me the TMC philosophy statement.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Who built this TMC assistant?
-A: Cajes JM created this AI assistant for TMC.
+Q: about TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
 
 Q: Who created this AI?
-A: Cajes JM created this AI assistant for TMC.
+A: CajesJM created this AI assistant for TMC.
 
-Q: Sultihi ko sa mission.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+Q: Who's your maker?
+A: CajesJM created this AI assistant for TMC.
 
-Q: Ano ang ginagawa ng TMC ayon sa mission?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Ipaliwanag ang vision ng TMC.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Kinsa ang nag-develop niining assistant?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Ano ang pangarap ng TMC base sa vision?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: What is the philosophy of TMC?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Anong mga halaga ang gumagabay sa TMC ayon sa philosophy?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Unsa ang katuyoan sa TMC?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: TMC pilosopiya: unsa kini?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Share the TMC goal.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: What is meant by the vision of TMC?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Unsa ang gipangandoy sa TMC base sa vision?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: TMC vision: ano ito?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Kang kinsa ka gibuhat?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Unsa ang opisyal nga slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Sultihi ko sa goal sa TMC.
+Q: Unsa ang gitinguha sa TMC?
 A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: What's the foundational belief of TMC?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Ano ang slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Alam mo ba ang slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: What's the institutional mission of TMC?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Sino ang nagtayo ng TMC assistant na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Palihug sublion ang mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: What does TMC aim to become based on its vision?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Sino ang nasa likod ng AI na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Could you outline TMC's philosophy?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Pahayag ng goal ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Unsa ang katuyoan sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Who programmed you?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Give me the TMC vision statement.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: What line does TMC use for its slogan?
-A: TMC is committed to public educational services second to none.
-
-Q: Who made this TMC bot?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Sultihi ko sa vision sa TMC.
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: What's the institutional goal of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Unsa ang tinguha sa TMC sumala sa vision?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Unsa nga mga bili ang naggiya sa TMC sumala sa philosophy?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Kinsa ang nagprograma kanimo?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Unsa ang mission sa TMC?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Ibahagi ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: I want to know the vision of TMC.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Vision of TMC?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Ihulagway ang mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Ano ang ibig sabihin ng vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: I want to hear the TMC slogan.
-A: TMC is committed to public educational services second to none.
-
-Q: Philosophy statement of TMC?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Pilosopiya sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Explain the philosophy of TMC.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: What does TMC's slogan say?
-A: TMC is committed to public educational services second to none.
 
 Q: Sultihi ko sa philosophy.
 A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
 
-Q: Can you state the vision of TMC?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+Q: Ipakilala mo ang sarili mo.
+A: Ako si Cypher, ang AI assistant ng Trinidad Municipal College (TMC). Kaya kong sagutin ang mga tanong tungkol sa vision, mission, slogan, philosophy, goal, at creator ng TMC.
 
-Q: Kinsa ang nagsulat sa code para niining AI?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
+Q: Who is CajesJM?
+A: CajesJM created this AI assistant for TMC.
 
-Q: By whom were you created?
-A: Cajes JM created this AI assistant for TMC.
+Q: Unsa ang gipasabot sa vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
-Q: Ipaliwanag ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+Q: What's TMC's philosophy?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
 
-Q: Sino ang nag-program sa iyo?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
+Q: Goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
 
-Q: Sino ang iyong developer?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
+Q: who made you
+A: CajesJM created this AI assistant for TMC.
 
-Q: Ano ang gabay na prinsipyo ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Ano ang layunin ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Do you recall the TMC slogan?
+Q: tagline
 A: TMC is committed to public educational services second to none.
 
-Q: Gusto kong malaman ang philosophy ng TMC.
+Q: Kinsa ang naa sa luyo niining AI?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Kinsa ang naghimo sa TMC AI?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: What is the philosophy of TMC?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Unsa ang imong mahimo?
+A: Ako si Cypher, ang AI assistant sa Trinidad Municipal College (TMC). Makatubag ko sa mga pangutana bahin sa vision, mission, slogan, philosophy, goal, ug creator sa TMC.
+
+Q: TMC philosophy: what is it?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Kanino ka ginawa?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Unsa ang gitinguha nga makab-ot sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: TMC philosophy: ano ito?
 A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
 
-Q: What does TMC strive to do?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+Q: Sinong tao ang gumawa ng AI na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
 
-Q: Sabihin mo ang goal.
+Q: Explain the philosophy of TMC.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Sino ang nasa likod ng AI na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Maaari mo bang sabihin ang goal ng TMC?
 A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Anong goal ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Mahimo ba nimong isulti ang slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
 
 Q: TMC's slogan statement?
 A: TMC is committed to public educational services second to none.
 
-Q: What's TMC's motto?
+Q: vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: creator
+A: CajesJM created this AI assistant for TMC.
+
+Q: What is meant by the mission of TMC?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: CajesJM
+A: CajesJM created this AI assistant for TMC.
+
+Q: Ihatag ang goal sa TMC.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Where is TMC located?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Ihatag ang slogan sa TMC.
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: tagline
 A: TMC is committed to public educational services second to none.
 
-Q: Sabihin mo ang motto ng TMC.
+Q: Sabihin mo ang slogan ng TMC.
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Sultihi ko sa motto sa TMC.
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: goals
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Ano ang catchphrase ng TMC?
 A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
 
 Q: How does TMC present itself in a few words?
 A: TMC is committed to public educational services second to none.
 
-Q: Share the TMC mission.
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Ano ang mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Kinsa ang nagtukod niining TMC assistant?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Mahimo ba nimong isaysay ang mission sa TMC?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Ano ang pundasyon na paniniwala ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Who is your creator?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Nahibal-an ba nimo ang slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: What is the vision of TMC?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Ano ang philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Ano ang pinaniniwalaan ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Share the TMC vision.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Ano ang huling target ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Ibahagi ang vision ng TMC.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Ipakigbahin ang mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Pahayag sa mission sa TMC?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Ano ang pinagsisikapang makamit ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Mission statement of TMC?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Sabihin mo sa akin ang vision ng TMC.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Who is responsible for your creation?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Ano ang nilalayon ng TMC ayon sa vision?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Unsa ang catchphrase sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Pakiibigay ang slogan ng TMC.
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Ano ang pangalan ng iyong lumikha?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Palihug sublion ang philosophy sa TMC.
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Unsay goal sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Mahimo bang i-outline ang vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Unsa ang pundasyon nga pagtuo sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Tell me the motto of TMC.
-A: TMC is committed to public educational services second to none.
-
-Q: Mahimo ba nimong isaysay ang vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Sino ang iyong gumawa?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Describe the TMC goal.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: What person made this AI?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Kinsa ang imong developer?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Maaari mo bang sabihin ang goal ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Ihulagway ang philosophy sa TMC.
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Ilarawan ang vision ng TMC.
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Paano ipinapakilala ng TMC ang sarili sa ilang salita?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Ipakigbahin ang philosophy sa TMC.
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Kanino ka ginawa?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Sultihi ko sa motto sa TMC.
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Mahimo ba nimong isaysay ang goal sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Unsa ang institusyonal nga goal sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Unsa ang edukasyonal nga philosophy sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Give me the TMC slogan.
-A: TMC is committed to public educational services second to none.
-
-Q: Sabihin mo ang mission.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Share the TMC slogan.
-A: TMC is committed to public educational services second to none.
-
-Q: Ilarawan ang philosophy ng TMC.
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
 Q: Kinsa ang nagdisenyo niining chatbot?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
 
-Q: Unsa ang giya nga prinsipyo sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Goal ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Gusto kong mahibalo sa philosophy sa TMC.
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Mahimo bang i-outline ang philosophy sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Do you know the TMC slogan?
-A: TMC is committed to public educational services second to none.
-
-Q: Who's your maker?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Tell me the philosophy.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Unsa ang institusyonal nga vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: What does TMC believe in?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Tell me about TMC's philosophy.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Gusto kong makadungog sa slogan sa TMC.
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Kinsa ang responsable sa imong pagkahimo?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Ibahagi ang philosophy ng TMC.
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Kinsa ang imong tighimo?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Maaari mo bang sabihin ang slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: What does TMC strive to achieve?
+Q: Share the TMC goal.
 A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Anong linya ang ginagamit ng TMC bilang slogan?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Maaari mo bang i-outline ang philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Sino ang iyong creator?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Sultihi ko sa vision.
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Ipakigbahin ang vision sa TMC.
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Anong vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: What's TMC's mission?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: What's TMC's philosophy?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Kinsa ang nagbuhat kanimo?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Ipakigbahin ang slogan sa TMC.
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: Unsa ang gitinguha nga makab-ot sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Sabihin mo ang philosophy.
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Sabihin mo sa akin ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Ano ang institusyonal na mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: What is the goal of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Slogan of TMC?
-A: TMC is committed to public educational services second to none.
-
-Q: Pahayag ng mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Ano ang institusyonal na vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Ano ang catchphrase ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Ano ang vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Unsa ang gidamgo sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
 Q: Naaalala mo ba ang slogan ng TMC?
 A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
 
-Q: Pakiulit ang mission ng TMC.
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+Q: tagline
+A: TMC is committed to public educational services second to none.
 
-Q: What does TMC do according to its mission?
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+Q: Anong vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
 
-Q: Explain the vision of TMC.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+Q: goals
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
 
-Q: Ano ang institusyonal na goal ng TMC?
+Q: who are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Pakiulit ang goal ng TMC.
 A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
 
-Q: Mahimo bang i-outline ang goal sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+Q: Unsa ang institusyonal nga mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
 
-Q: Sabihin mo ang slogan ng TMC.
+Q: Sino ang gumawa ng TMC AI?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Mahimo bang i-outline ang vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Sino ang iyong developer?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Describe the TMC philosophy.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ibigay ang slogan ng TMC.
 A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
 
-Q: Who brought you into existence?
-A: Cajes JM created this AI assistant for TMC.
+Q: Unsa ang gibuhat sa TMC sumala sa mission?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
 
-Q: Sino ang nagdisenyo ng chatbot na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
+Q: Gusto kong marinig ang slogan ng TMC.
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
 
-Q: Who designed this chatbot?
-A: Cajes JM created this AI assistant for TMC.
+Q: Ano ang ginagawa ng TMC ayon sa mission?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
 
-Q: TMC mission: what is it?
+Q: vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Unsa ang vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Ano ang goal ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: What is TMC's guiding principle?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Sultihi ko kung kinsa ang nagtukod niining AI.
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: who are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: who are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Kinsa ang nagtukod niining TMC assistant?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Could you outline TMC's mission?
 A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
-Q: Unsa ang gipang-anunsyo sa TMC isip slogan?
+Q: Unsa ang gidamgo sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Describe the TMC mission statement.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Unsa ang tagline sa TMC?
 A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
 
-Q: Kinsa ang imong magbubuhat?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
+Q: Vision of TMC?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
 
-Q: Goal statement of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+Q: What's TMC's mission?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Unsa ang giya nga prinsipyo sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Sabihin mo ang philosophy.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Alam mo ba ang slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: What is the slogan of TMC?
+A: TMC is committed to public educational services second to none.
+
+Q: Give me the TMC philosophy statement.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: about TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Palihug sublion ang mission sa TMC.
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Pakiibigay ang slogan ng TMC.
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: tagline
+A: TMC is committed to public educational services second to none.
+
+Q: Give me the TMC mission statement.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: motto
+A: TMC is committed to public educational services second to none.
+
+Q: Ano ang nilalayon ng TMC ayon sa vision?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Ano ang opisyal na slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Unsa ang mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Unsa ang gipasabot sa TMC?
+A: Ang TMC nagpasabot og Trinidad Municipal College, usa ka publikong institusyon sa edukasyon nga nahimutang sa Trinidad, Bohol, Pilipinas.
+
+Q: Kinsa ka?
+A: Ako si Cypher, ang AI assistant sa Trinidad Municipal College (TMC). Makatubag ko sa mga pangutana bahin sa vision, mission, slogan, philosophy, goal, ug creator sa TMC.
+
+Q: Ano ang ibig sabihin ng TMC?
+A: Ang TMC ay para sa Trinidad Municipal College, isang pampublikong institusyong pang-edukasyon na matatagpuan sa Trinidad, Bohol, Pilipinas.
+
+Q: Sino ang nag-program sa iyo?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Sino ang iyong creator?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: MISSION
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: who made you
+A: CajesJM created this AI assistant for TMC.
+
+Q: Explain the mission of TMC.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
 Q: Unsa ang giingon sa slogan sa TMC?
 A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
 
-Q: Sultihi ko sa goal.
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+Q: TMC stands for?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
 
-Q: Ihulagway ang vision sa TMC.
+Q: TMC vision: ano ito?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: goals
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Sabihin mo ang goal.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Who made this TMC bot?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Ano ang philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Unsa ang gituohan sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Tell me about TMC's philosophy.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ano ang adhikain ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Sabihin mo sa akin ang philosophy ng TMC.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: CajesJM
+A: CajesJM created this AI assistant for TMC.
+
+Q: Who built this TMC assistant?
+A: CajesJM created this AI assistant for TMC.
+
+Q: what are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Can you state the mission of TMC?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: What's TMC's vision?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Ibahagi ang slogan ng TMC.
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: MISSION
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: pilosopiya
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Who programmed you?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Sino ang nagtayo ng TMC assistant na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Ipakigbahin ang philosophy sa TMC.
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Ihulagway ang philosophy sa TMC.
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Philosophy of TMC?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Mahimo ba nimong isaysay ang vision sa TMC?
 A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
-Q: TMC mission: ano ito?
+Q: Kinsa ang imong magbubuhat?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Unsa ang goal sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Who designed this chatbot?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Pahayag sa mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: who made you
+A: CajesJM created this AI assistant for TMC.
+
+Q: Gusto kong mahibalo sa philosophy sa TMC.
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Ipaliwanag ang philosophy ng TMC.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Kinsa ang naghimo niining AI?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Mahimo ba nimong isaysay ang philosophy sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: goals
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Pilosopiya sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Share the TMC slogan.
+A: TMC is committed to public educational services second to none.
+
+Q: Mahimo bang i-outline ang mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Philosophy statement of TMC?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ano ang TMC?
+A: Ang TMC ay para sa Trinidad Municipal College, isang pampublikong institusyong pang-edukasyon na matatagpuan sa Trinidad, Bohol, Pilipinas.
+
+Q: What's TMC's motto?
+A: TMC is committed to public educational services second to none.
+
+Q: Unsa ka?
+A: Ako si Cypher, ang AI assistant sa Trinidad Municipal College (TMC). Makatubag ko sa mga pangutana bahin sa vision, mission, slogan, philosophy, goal, ug creator sa TMC.
+
+Q: Ano ka?
+A: Ako si Cypher, ang AI assistant ng Trinidad Municipal College (TMC). Kaya kong sagutin ang mga tanong tungkol sa vision, mission, slogan, philosophy, goal, at creator ng TMC.
+
+Q: pilosopiya
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Unsa ang philosophy sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Ibahagi ang vision ng TMC.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: VISION
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Anong philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Ano ang edukasyonal na philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: What is the mission of TMC?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Do you recall the TMC slogan?
+A: TMC is committed to public educational services second to none.
+
+Q: Please repeat the TMC vision.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Unsay vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: tagline
+A: TMC is committed to public educational services second to none.
+
+Q: Ipaliwanag ang goal ng TMC.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Unsa ang tinguha sa TMC sumala sa vision?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Nahibal-an ba nimo ang slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ano ang institusyonal na vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Unsang linya ang gigamit sa TMC isip slogan?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ilarawan ang philosophy ng TMC.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Ihulagway ang goal sa TMC.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Kinsa ang imong developer?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Sino ang responsable sa iyong pagkakalikha?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: What is the goal of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Ipasabot ang goal sa TMC.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: motto
+A: TMC is committed to public educational services second to none.
+
+Q: What does TMC advertise as its slogan?
+A: TMC is committed to public educational services second to none.
+
+Q: Kinsa ang nagbuhat kanimo?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Gusto kong mahibalo sa goal sa TMC.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: What values guide TMC according to its philosophy?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Who's behind this AI?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Sabihin mo ang vision.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Pahayag ng vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: who are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Unsay mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: What is TMC?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: What are you?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: What's the institutional goal of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Ano ang pundasyon na paniniwala ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Gusto kong mahibalo sa vision sa TMC.
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Who is responsible for your creation?
+A: CajesJM created this AI assistant for TMC.
+
+Q: philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: developer
+A: CajesJM created this AI assistant for TMC.
+
+Q: vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Anong mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Who wrote the code for this AI?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Mahimo ba nimong isaysay ang goal sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ano ang inaanunsyo ng TMC bilang slogan?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Asa nahimutang ang TMC?
+A: Ang TMC nagpasabot og Trinidad Municipal College, usa ka publikong institusyon sa edukasyon nga nahimutang sa Trinidad, Bohol, Pilipinas.
+
+Q: Ipakigbahin ang vision sa TMC.
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Unsa ang ngalan sa imong magbubuhat?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Palihug sublion ang philosophy sa TMC.
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Unsa ang katuyoan sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: GOALS
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Tell me about TMC.
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Ano ang ibig sabihin ng mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: CajesJM
+A: CajesJM created this AI assistant for TMC.
+
+Q: philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: goals
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Kinsa ang nagprograma kanimo?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Sultihi ko sa goal sa TMC.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Sabihin mo ang motto ng TMC.
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: What is the name of your creator?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Mission statement of TMC?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: What is TMC hoping to achieve according to its vision?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Pahayag ng philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: about TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Vision statement of TMC?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Who created the TMC AI?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Ihatag ang mission sa TMC.
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Gusto kong mahibalo sa mission sa TMC.
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: about TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: VISION
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: MISSION
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Unsa ang gipangandoy sa TMC base sa vision?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: TMC full name?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Ilarawan ang goal ng TMC.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: creator
+A: CajesJM created this AI assistant for TMC.
+
+Q: Pahayag sa philosophy sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Give me the TMC vision statement.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: What is TMC's tagline?
+A: TMC is committed to public educational services second to none.
+
+Q: Gusto kong malaman ang goal ng TMC.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Are you a chatbot?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Sino si CajesJM?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Pahayag sa vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: motto
+A: TMC is committed to public educational services second to none.
+
+Q: Slogan
+A: TMC is committed to public educational services second to none.
+
+Q: who made you
+A: CajesJM created this AI assistant for TMC.
+
+Q: Mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Ihatag ang philosophy sa TMC.
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: I want to know the vision of TMC.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: VISION
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: What's TMC's goal?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: creator
+A: CajesJM created this AI assistant for TMC.
+
+Q: Ilarawan ang vision ng TMC.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Unsa ang edukasyonal nga philosophy sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: TMC pilosopiya: unsa kini?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: What is your purpose?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Unsa ang opisyal nga slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Sultihi ko sa vision sa TMC.
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Maaari mo bang i-outline ang goal ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: What can you answer?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: What is meant by the vision of TMC?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: I want to know the goal of TMC.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Kang kinsa ka gibuhat?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Ano ang vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: MISSION
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: TMC mission: unsa kini?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: what are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Sino ka?
+A: Ako si Cypher, ang AI assistant ng Trinidad Municipal College (TMC). Kaya kong sagutin ang mga tanong tungkol sa vision, mission, slogan, philosophy, goal, at creator ng TMC.
+
+Q: Sino ang nagdisenyo ng chatbot na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Giunsa pagpresentar sa TMC ang kaugalingon sa pipila ka pulong?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Unsa ang katuyoan sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Goal statement of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Unsa ang institusyonal nga goal sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Who is your developer?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Unsa nga mga bili ang naggiya sa TMC sumala sa philosophy?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Sino ang nagbigay sa iyo ng buhay?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Tell me about yourself.
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Sino ang sumulat ng code para sa AI na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Give me the TMC goal statement.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Describe the TMC vision statement.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: What's the foundational belief of TMC?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ano ang institusyonal na mission ng TMC?
 A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
 
 Q: What is the educational philosophy of TMC?
 A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
 
+Q: What is the objective of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
 Q: Ano ang pinupuntirya ng TMC?
 A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: What does TMC aim for?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Ano ang tagline ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: Unsa ang gitinguha sa TMC nga buhaton?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: TMC goal: what is it?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: What is the name of your creator?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Ano ang edukasyonal na philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Ano ang ibig sabihin ng mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Who made you?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Kinsa si Cajes JM?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Anong philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Kinsa ang naghimo niining TMC bot?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Unsa ang katapusang target sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Maaari mo bang i-outline ang mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Ano ang opisyal na slogan ng TMC?
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
-
-Q: What's the institutional vision of TMC?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: What is TMC's tagline?
-A: TMC is committed to public educational services second to none.
-
-Q: Maaari mo bang sabihin ang vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Ihatag ang goal sa TMC.
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Unsa ang gitinguha sa TMC?
-A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
-
-Q: Kinsa ang naghimo niining AI?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
 
 Q: Palihug sublion ang vision sa TMC.
 A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
-Q: Sultihi ko sa slogan sa TMC.
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+Q: what are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
 
-Q: Unsay vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Kinsa ang naghatag kanimo og kinabuhi?
-A: Si Cajes JM ang naghimo niining AI assistant para sa TMC.
-
-Q: Ibahagi ang slogan ng TMC.
-A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+Q: Saan matatagpuan ang TMC?
+A: Ang TMC ay para sa Trinidad Municipal College, isang pampublikong institusyong pang-edukasyon na matatagpuan sa Trinidad, Bohol, Pilipinas.
 
 Q: Unsa ang gipasabot sa mission sa TMC?
 A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
 
-Q: Sabihin mo sa akin ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+Q: TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
 
-Q: Pahayag sa slogan sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
-
-Q: What's TMC's goal?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Pahayag ng vision ng TMC?
-A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
-
-Q: Who's behind this AI?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Unsa ang gibuhat sa TMC sumala sa mission?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Gusto kong malaman ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: I want to know the philosophy of TMC.
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: Can you say the slogan of TMC?
-A: TMC is committed to public educational services second to none.
-
-Q: Unsa ang gipasabot sa vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Ipaliwanag ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+Q: Kinsa ang nag-develop niining assistant?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
 
 Q: Ipasabot ang philosophy sa TMC.
 A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
 
+Q: Sabihin mo sa akin ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: What's the catchphrase of TMC?
+A: TMC is committed to public educational services second to none.
+
+Q: Gusto kong malaman ang philosophy ng TMC.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: TMC mission: ano ito?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Unsa ang institusyonal nga vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: goals
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Slogan
+A: TMC is committed to public educational services second to none.
+
+Q: slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Goal ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Maaari mo bang i-outline ang vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Anong mga halaga ang gumagabay sa TMC ayon sa philosophy?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Tell me who built this AI.
+A: CajesJM created this AI assistant for TMC.
+
+Q: Sino ang iyong gumawa?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Tell me about TMC's goal.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Ipaliwanag ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Can you state the philosophy of TMC?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ano ang gabay na prinsipyo ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Tell me about TMC's vision.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Nahinumduman ba nimo ang slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Gusto kong malaman ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Ano ang institusyonal na goal ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: who are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: VISION
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Ibahagi ang philosophy ng TMC.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Who developed this assistant?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Sino ang nag-develop ng assistant na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: developer
+A: CajesJM created this AI assistant for TMC.
+
+Q: who are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Unsay slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: What is TMC as a school?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: What does TMC envision?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Explain the goal of TMC.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Describe the TMC goal.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Maaari mo bang sabihin ang vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Unsa ang pundasyon nga pagtuo sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: Who is your creator?
+A: CajesJM created this AI assistant for TMC.
+
+Q: Give me the TMC slogan.
+A: TMC is committed to public educational services second to none.
+
+Q: GOALS
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Unsa ang catchphrase sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Please repeat the TMC philosophy.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: What does TMC believe in?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Tell me the vision.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Pahayag sa slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
 Q: Tell me the mission.
 A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
-Q: Pahayag sa philosophy sa TMC?
+Q: creator
+A: CajesJM created this AI assistant for TMC.
+
+Q: Who brought you into existence?
+A: CajesJM created this AI assistant for TMC.
+
+Q: What does TMC aim for?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Are you an AI?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Pahayag ng mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: what are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Ano ang tagline ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Mahimo ba nimong isaysay ang mission sa TMC?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Ano ang pinagsisikapang gawin ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Sultihi ko bahin sa TMC.
+A: Ang TMC nagpasabot og Trinidad Municipal College, usa ka publikong institusyon sa edukasyon nga nahimutang sa Trinidad, Bohol, Pilipinas.
+
+Q: Kinsa ang nagsulat sa code para niining AI?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Ano ang huling target ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Please repeat the TMC goal.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: motto
+A: TMC is committed to public educational services second to none.
+
+Q: Sultihi ko sa goal.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: I want to know the philosophy of TMC.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ibahagi ang goal ng TMC.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Tell me the philosophy.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: creator
+A: CajesJM created this AI assistant for TMC.
+
+Q: developer
+A: CajesJM created this AI assistant for TMC.
+
+Q: Unsay goal sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Sabihin mo kung sino ang nagtayo ng AI na ito.
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Do you know the TMC slogan?
+A: TMC is committed to public educational services second to none.
+
+Q: slogan
+A: TMC is committed to public educational services second to none.
+
+Q: GOALS
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: GOALS
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Maaari mo bang i-outline ang philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Sabihin mo sa akin ang vision ng TMC.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Introduce yourself.
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: MISSION
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Tell me the goal.
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: I want to hear the TMC slogan.
+A: TMC is committed to public educational services second to none.
+
+Q: Anong slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Slogan
+A: TMC is committed to public educational services second to none.
+
+Q: TMC vision: what is it?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: CajesJM
+A: CajesJM created this AI assistant for TMC.
+
+Q: Please repeat the TMC mission.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Could you outline TMC's vision?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: TMC goal: unsa kini?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: What does TMC aim to become based on its vision?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Sino ang gumawa sa iyo?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Kinsa ang imong tighimo?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Ibahagi ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Mahimo bang i-outline ang philosophy sa TMC?
 A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
 
-Q: What is TMC hoping to achieve according to its vision?
+Q: Mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: What is the vision of TMC?
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: pilosopiya
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: CajesJM
+A: CajesJM created this AI assistant for TMC.
+
+Q: Anong linya ang ginagamit ng TMC bilang slogan?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Vision sa TMC?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: what are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Pakiulit ang vision ng TMC.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Who made you?
+A: CajesJM created this AI assistant for TMC.
+
+Q: developer
+A: CajesJM created this AI assistant for TMC.
+
+Q: who made you
+A: CajesJM created this AI assistant for TMC.
+
+Q: Sultihi ko sa slogan sa TMC.
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ano ang inaasam ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Ipaila ang imong kaugalingon.
+A: Ako si Cypher, ang AI assistant sa Trinidad Municipal College (TMC). Makatubag ko sa mga pangutana bahin sa vision, mission, slogan, philosophy, goal, ug creator sa TMC.
+
+Q: pilosopiya
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Share the TMC vision.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: By whom were you created?
+A: CajesJM created this AI assistant for TMC.
+
+Q: TMC goal: what is it?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Ibigay ang philosophy ng TMC.
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: developer
+A: CajesJM created this AI assistant for TMC.
+
+Q: What's the institutional mission of TMC?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Slogan of TMC?
+A: TMC is committed to public educational services second to none.
+
+Q: pilosopiya
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ipakigbahin ang mission sa TMC.
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: AI ka ba?
+A: Ako si Cypher, ang AI assistant ng Trinidad Municipal College (TMC). Kaya kong sagutin ang mga tanong tungkol sa vision, mission, slogan, philosophy, goal, at creator ng TMC.
+
+Q: Share the TMC philosophy.
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Sabihin mo sa akin ang goal ng TMC.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Sino ang gumawa ng TMC bot na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: Vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: What can you do?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Paano ipinapakilala ng TMC ang sarili sa ilang salita?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Vision
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Ano ang ibig sabihin ng vision ng TMC?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: about TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Maaari mo bang sabihin ang mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Maaari mo bang i-outline ang mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: motto
+A: TMC is committed to public educational services second to none.
+
+Q: Unsa ang gipang-anunsyo sa TMC isip slogan?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ipaliwanag ang vision ng TMC.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Ano ang pinaniniwalaan ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Can you state the goal of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Who are you?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: What person made this AI?
+A: CajesJM created this AI assistant for TMC.
+
+Q: What does TMC strive to achieve?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Pahayag ng goal ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: Could you outline TMC's philosophy?
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Ano ang mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: What does TMC mean?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Maaari mo bang sabihin ang philosophy ng TMC?
+A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
+
+Q: Kinsa si CajesJM?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Can you say the slogan of TMC?
+A: TMC is committed to public educational services second to none.
+
+Q: what are you
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Ipasabot ang mission sa TMC.
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: Sultihi ko sa mission sa TMC.
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: What is the official slogan of TMC?
+A: TMC is committed to public educational services second to none.
+
+Q: Explain the vision of TMC.
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: Ano ang pangarap ng TMC base sa vision?
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: What is the full name of TMC?
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Mission ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Sino ang lumikha ng AI na ito?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
+
+Q: goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Ipakigbahin ang goal sa TMC.
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: MISSION
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: CajesJM
+A: CajesJM created this AI assistant for TMC.
+
+Q: goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: What's the institutional vision of TMC?
 A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
 
 Q: Palihug sublion ang goal sa TMC.
 A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
 
-Q: What does TMC advertise as its slogan?
-A: TMC is committed to public educational services second to none.
+Q: pilosopiya
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
 
-Q: Sabihin mo kung sino ang nagtayo ng AI na ito.
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
+Q: Ano ang pangalan ng iyong lumikha?
+A: Si CajesJM ang gumawa ng AI assistant na ito para sa TMC.
 
-Q: I want to know the mission of TMC.
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Can you state the goal of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Could you outline TMC's goal?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: What is the objective of TMC?
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: What's the catchphrase of TMC?
-A: TMC is committed to public educational services second to none.
-
-Q: Who created the TMC AI?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Tell me who built this AI.
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Maaari mo bang i-outline ang goal ng TMC?
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Explain the mission of TMC.
-A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
-
-Q: Who is Cajes JM?
-A: Cajes JM created this AI assistant for TMC.
-
-Q: Ihatag ang mission sa TMC.
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Unsa ang slogan sa TMC?
+Q: Ipakigbahin ang slogan sa TMC.
 A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ibigay ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: Kinsa ang responsable sa imong pagkahimo?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
 
 Q: Mission of TMC?
 A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
-Q: Ano ang pinagsisikapang gawin ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Maaari mo bang sabihin ang mission ng TMC?
-A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
-
-Q: Sultihi ko sa philosophy sa TMC.
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Explain the goal of TMC.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: Mahimo bang i-outline ang mission sa TMC?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: What is TMC's guiding principle?
-A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
-
-Q: TMC mission: unsa kini?
-A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
-
-Q: Please repeat the TMC goal.
-A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
-
-Q: TMC vision: unsa kini?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: What does TMC envision?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Philosophy ng TMC?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: Describe the TMC vision statement.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Pahayag sa vision sa TMC?
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: Ihatag ang vision sa TMC.
-A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
-
-Q: TMC philosophy: ano ito?
-A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
-
-Q: TMC vision: what is it?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
-
-Q: Unsang linya ang gigamit sa TMC isip slogan?
+Q: Gusto kong makadungog sa slogan sa TMC.
 A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
 
-Q: Ibahagi ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Pakiulit ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Ihatag ang philosophy sa TMC.
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Sino ang sumulat ng code para sa AI na ito?
-A: Si Cajes JM ang gumawa ng AI assistant na ito para sa TMC.
-
-Q: Can you state the philosophy of TMC?
+Q: Philosophy
 A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
 
-Q: Unsa ang vision sa TMC?
+Q: Unsang tawhana ang naghimo niining AI?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Tell me the motto of TMC.
+A: TMC is committed to public educational services second to none.
+
+Q: Share the TMC mission.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Unsay philosophy sa TMC?
+A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
+
+Q: What do you do?
+A: I am Cypher, the AI assistant of Trinidad Municipal College (TMC). I can answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
+
+Q: Sultihi ko sa vision.
 A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
 
-Q: Could you outline TMC's vision?
+Q: Slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Ibigay ang vision ng TMC.
+A: Isang modelong institusyon na may ganap na akademiko, teknikal-bokasyonal na edukasyon at kasanayan ng mga tao na may positibong pag-uugali sa trabaho na nakasalig sa mga pangunahing halaga ng pamumuno at propesyonalismo na mahalaga sa paglikha ng mga mamamayang may sariling kakayahan.
+
+Q: Ilarawan ang mission ng TMC.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: GOALS
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: What does TMC do according to its mission?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: about TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: GOALS
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: goal
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: Maaari mo bang sabihin ang slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Tell me TMC's slogan.
+A: TMC is committed to public educational services second to none.
+
+Q: TMC mission: what is it?
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Unsa ang gitinguha sa TMC nga buhaton?
+A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: VISION
 A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
 
-Q: What's TMC's vision?
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+Q: What line does TMC use for its slogan?
+A: TMC is committed to public educational services second to none.
+
+Q: Philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
 
 Q: What is TMC's purpose?
 A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
-Q: Who wrote the code for this AI?
-A: Cajes JM created this AI assistant for TMC.
+Q: Pahayag sa goal sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
 
-Q: Unsa ang tagline sa TMC?
-A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+Q: tagline
+A: TMC is committed to public educational services second to none.
 
-Q: Ilarawan ang goal ng TMC.
-A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
-
-Q: Describe the TMC mission statement.
+Q: What does TMC strive to do?
 A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
 
-Q: Unsa ang philosophy sa TMC?
-A: Ang TMC nagasunod sa pilosopiya nga ang edukasyon mao ang kinabuhi ug pagtubo nga gigiyahan sa pagtuo sa Diyos ug gugma sa isigkatawo sa palibot nga kompetitibo, propesyonalismo ug kahusay.
-
-Q: Tell me about TMC's vision.
-A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+Q: Sabihin mo ang mission.
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
 
 Q: Pakiulit ang philosophy ng TMC.
 A: Ang TMC ay sumusunod sa pilosopiya na ang edukasyon ay buhay at pag-unlad na ginagabayan ng pananampalataya sa Diyos at pagmamahal sa kapwa sa isang kapaligiran ng kompetisyon, propesyonalismo at kahusayan.
 
-Q: Unsay mission sa TMC?
+Q: Unsa ang katapusang target sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Could you outline TMC's goal?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: What is the end target of TMC?
+A: TMC aims at evolving a whole individual as a child of God and a member of a democratic society who is professionally competent that can provide leadership and advance knowledge, well-trained in a certain vocation not only to help himself but to help others, and practical yet responsible and obedient to the laws of God and to the laws of the government.
+
+Q: TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Kinsa ang naghimo niining TMC bot?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: Kinsa ang naghatag kanimo og kinabuhi?
+A: Si CajesJM ang naghimo niining AI assistant para sa TMC.
+
+Q: VISION
+A: A model institution with fully developed academic, technical-vocational education and skill of manpower with positive work attitudes anchored in the core values of leadership and professionalism essential in the creation of self-reliant citizens.
+
+Q: philosophy
+A: TMC adheres to the philosophy that education is life and growth guided by faith in God and love of fellowmen in an environment of competitiveness, professionalism and excellence.
+
+Q: Mahimo bang i-outline ang goal sa TMC?
+A: Tinguha sa TMC nga mahimo ang tibuok nga pagkatawo isip anak sa Diyos ug miyembro sa demokratikong katilingban nga may propesyonal nga katakos, makahatag og liderato ug makapauswag sa kahibalo, hanas sa usa ka bokasyon dili lamang alang sa kaugalingon kundili alang sa uban, ug praktikal apan responsable ug masinugtanon sa mga balaod sa Diyos ug sa gobyerno.
+
+Q: Ano ang kaya mong gawin?
+A: Ako si Cypher, ang AI assistant ng Trinidad Municipal College (TMC). Kaya kong sagutin ang mga tanong tungkol sa vision, mission, slogan, philosophy, goal, at creator ng TMC.
+
+Q: slogan
+A: TMC is committed to public educational services second to none.
+
+Q: Ihulagway ang mission sa TMC.
 A: Ang pagtukod og maayong pagkabansay, takos ug andam nga mga propesyonal nga makatubag sa panginahanglan sa tibuok kalibutan nga merkado.
+
+Q: What does TMC's slogan say?
+A: TMC is committed to public educational services second to none.
+
+Q: I want to know the mission of TMC.
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: Unsa ang TMC?
+A: Ang TMC nagpasabot og Trinidad Municipal College, usa ka publikong institusyon sa edukasyon nga nahimutang sa Trinidad, Bohol, Pilipinas.
+
+Q: mission
+A: To build well-trained, competent and employable professionals, who will meet the demands of the world market.
+
+Q: TMC vision: unsa kini?
+A: Usa ka modelo nga institusyon nga adunay hingpit nga pagpalambo sa akademiko, teknikal-bokasyonal nga edukasyon ug kahanas sa mga tawo nga adunay positibo nga pamatasan sa trabaho nga nakasalalay sa mga kinauyokang bili sa liderato ug propesyonalismo nga hinungdanon sa paghimo og kaugalingong masaligang lungsuranon.
+
+Q: Sabihin mo sa akin ang tungkol sa TMC.
+A: Ang TMC ay para sa Trinidad Municipal College, isang pampublikong institusyong pang-edukasyon na matatagpuan sa Trinidad, Bohol, Pilipinas.
+
+Q: TMC
+A: TMC stands for Trinidad Municipal College, a public educational institution located in Trinidad, Bohol, Philippines.
+
+Q: Slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ano ang slogan ng TMC?
+A: Ang TMC ay nakatuon sa pampublikong serbisyong pang-edukasyon na walang katulad.
+
+Q: Ano ang layunin ng TMC?
+A: Bumuo ng mga bihasa, may kakayahan, at handang propesyonal na tutugon sa pangangailangan ng pandaigdigang pamilihan.
+
+Q: who made you
+A: CajesJM created this AI assistant for TMC.
+
+Q: Ibigay ang goal ng TMC.
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
+
+Q: TMC slogan please.
+A: TMC is committed to public educational services second to none.
+
+Q: Unsa ang slogan sa TMC?
+A: Ang TMC komitado sa publikong serbisyo sa edukasyon nga way sama.
+
+Q: Ano ang pinagsisikapang makamit ng TMC?
+A: Layunin ng TMC na hubugin ang isang buong indibidwal bilang anak ng Diyos at kasapi ng demokratikong lipunan na propesyonal na may kakayahan, makapagbibigay ng pamumuno at makapagsulong ng kaalaman, bihasa sa isang bokasyon hindi lamang para sa sarili kundi para sa iba, at praktikal ngunit responsable at masunurin sa mga batas ng Diyos at ng pamahalaan.
 
 Q: What is the capital of France?
 A: I'm sorry, I can only answer questions about TMC's vision, mission, slogan, philosophy, goal, and creator.
