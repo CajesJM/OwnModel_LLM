@@ -1,4 +1,3 @@
-# tokenizer.py
 import json
 
 class CharTokenizer:

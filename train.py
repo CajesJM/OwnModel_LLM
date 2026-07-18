@@ -1,108 +1,129 @@
 import torch
-import torch.nn.functional as F
 from torch.optim import AdamW
 from model import MiniGPT
 from tokenizer import CharTokenizer
 
+# ---------------------------------------------------------------------------
 # Hyperparameters
-batch_size = 1
-block_size = 400
+# ---------------------------------------------------------------------------
 n_embd = 128
 n_head = 4
 n_layer = 4
-dropout = 0.0
-learning_rate = 1e-3        
-max_iters = 15000
-eval_interval = 1000
+block_size = 512
+dropout = 0.1
 
-with open('train.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
+pretrain_iters = 4000     # Phase A: learn language + facts from raw corpus.txt
+pretrain_lr = 3e-3
 
-blocks = text.strip().split('\n\n')
-pairs = []
-for block in blocks:
-    lines = block.strip().split('\n')
-    if len(lines) >= 2 and lines[0].startswith('Q:') and lines[1].startswith('A:'):
-        question = lines[0][3:]
-        answer = lines[1][3:]
-        pairs.append((question, answer))
+finetune_iters = 2000      # Phase B: learn the Question/Answer reply format
+finetune_lr = 3e-4
+rehearsal_ratio = 0.4       # fraction of Phase B steps that replay corpus.txt
+                             # instead of finetune.txt -- this is what stops
+                             # the model from "forgetting" fluent language
+                             # while it overfits to only 12 Q&A examples
 
-print(f"Found {len(pairs)} Q:A pairs")
+eval_interval = 500
+grad_clip = 1.0
 
-# Build tokenizer
-tokenizer = CharTokenizer(text)
+# ---------------------------------------------------------------------------
+# Load data
+# ---------------------------------------------------------------------------
+with open('corpus.txt', 'r', encoding='utf-8') as f:
+    corpus_text = f.read()
+
+with open('finetune.txt', 'r', encoding='utf-8') as f:
+    finetune_text = f.read()
+
+tokenizer = CharTokenizer(corpus_text + finetune_text)
 tokenizer.save('tokenizer.json')
 vocab_size = tokenizer.vocab_size
+print(f"Vocab size: {vocab_size}")
 
-data = []
-for q, a in pairs:
-    prompt = f"Q: {q}\nA:"
-    completion = a + "Q:\n"
-    full_seq = prompt + completion
-    encoded = tokenizer.encode(full_seq)
-    data.append(torch.tensor(encoded, dtype=torch.long))
+corpus_ids = torch.tensor(tokenizer.encode(corpus_text), dtype=torch.long)
+print(f"Corpus length: {len(corpus_ids)} tokens")
+
+finetune_blocks = [b for b in finetune_text.strip().split('\n\n') if b.strip()]
+finetune_seqs = [torch.tensor(tokenizer.encode(b + "\n"), dtype=torch.long) for b in finetune_blocks]
+print(f"Finetune examples: {len(finetune_seqs)}")
 
 model = MiniGPT(vocab_size, n_embd, n_head, n_layer, block_size, dropout)
-optimizer = AdamW(model.parameters(), lr=learning_rate)
 
-scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=12000, gamma=0.1)
 
-def get_sample(model, tokenizer, question):
-    prompt = f"Q: {question}\nA:"
-    input_ids = torch.tensor([tokenizer.encode(prompt)], dtype=torch.long)
-    out_ids = model.generate(input_ids, max_new_tokens=400)
-    full_gen = tokenizer.decode(out_ids[0].tolist())
-    if "A:" in full_gen:
-        ans = full_gen.split("A:", 1)[1]
-        if "Q:" in ans:
-            ans = ans.split("Q:")[0]
-        return ans.strip()
-    return full_gen.strip()
+def get_batch_from_corpus():
+    """Random contiguous crop of the raw corpus -- pure next-token prediction,
+    no Q/A framing. This is what makes the model actually read the document."""
+    max_start = len(corpus_ids) - block_size - 1
+    start = torch.randint(0, max(max_start, 1), (1,)).item()
+    chunk = corpus_ids[start:start + block_size + 1]
+    if len(chunk) < 2:
+        chunk = corpus_ids[:block_size + 1]
+    x = chunk[:-1].unsqueeze(0)
+    y = chunk[1:].unsqueeze(0)
+    return x, y
 
-# Training loop
-for iter in range(max_iters):
-   
-    idx = torch.randint(len(data), (1,)).item()
-    seq = data[idx]
-    if len(seq) > block_size:
-        start = torch.randint(len(seq) - block_size + 1, (1,)).item()
-        seq = seq[start:start + block_size]
-    x = seq[:-1].unsqueeze(0)  
-    y = seq[1:].unsqueeze(0)
 
-    logits, loss = model(x, y)
-
-    optimizer.zero_grad(set_to_none=True)
-    loss.backward()
-    optimizer.step()
-    scheduler.step()
-
-    if iter % eval_interval == 0:
-        model.eval()
-        with torch.no_grad():
-            # Test multiple questions
-            test_qs = [
-                "What is the mission of TMC?",
-                "Who created this AI?",
-                "Unsa ang misyon sa TMC?"
-            ]
-            print(f"step {iter}: loss {loss.item():.4f}, lr {scheduler.get_last_lr()[0]:.2e}")
-            for q in test_qs:
-                ans = get_sample(model, tokenizer, q)
-                print(f"  Q: {q}\n  A: {ans[:100]}...")
-            print()
-        model.train()
-
-# Final loss
-model.eval()
-with torch.no_grad():
-    idx = 0
-    seq = data[idx]
-    if len(seq) > block_size:
-        seq = seq[:block_size]
+def get_batch_from_finetune():
+    idx = torch.randint(len(finetune_seqs), (1,)).item()
+    seq = finetune_seqs[idx]
+    if len(seq) > block_size + 1:
+        seq = seq[:block_size + 1]
+    if len(seq) < 2:
+        return get_batch_from_finetune()
     x = seq[:-1].unsqueeze(0)
     y = seq[1:].unsqueeze(0)
-    _, final_loss = model(x, y)
-print(f"Final loss: {final_loss.item():.6f}")
+    return x, y
+
+
+def sample(question):
+    model.eval()
+    with torch.no_grad():
+        prompt = f"Question: {question}\nAnswer:"
+        input_ids = torch.tensor([tokenizer.encode(prompt)], dtype=torch.long)
+        out_ids = model.generate(input_ids, max_new_tokens=250, tokenizer=tokenizer, stop_str="Q:")
+        text = tokenizer.decode(out_ids[0].tolist())
+        ans = text.split("Answer:", 1)[1] if "Answer:" in text else text
+        ans = ans.split("Q:")[0].strip()
+    model.train()
+    return ans
+
+
+test_questions = ["What is the mission of TMC?", "Who created you?"]
+
+# ---------------------------------------------------------------------------
+# Phase A: pretrain on the raw document (the actual fix for "let it read the data")
+# ---------------------------------------------------------------------------
+print("\n=== Phase A: pretraining on raw corpus.txt ===")
+optimizer = AdamW(model.parameters(), lr=pretrain_lr)
+for it in range(pretrain_iters):
+    x, y = get_batch_from_corpus()
+    _, loss = model(x, y)
+    optimizer.zero_grad(set_to_none=True)
+    loss.backward()
+    torch.nn.utils.clip_grad_norm_(model.parameters(), grad_clip)
+    optimizer.step()
+    if it % eval_interval == 0:
+        print(f"  [pretrain] step {it}: loss {loss.item():.4f}")
+
+# ---------------------------------------------------------------------------
+# Phase B: fine-tune on Question/Answer format, WITH rehearsal so the model
+# doesn't forget the fluent language it just learned in Phase A.
+# ---------------------------------------------------------------------------
+print("\n=== Phase B: fine-tuning on Question/Answer format (with rehearsal) ===")
+optimizer = AdamW(model.parameters(), lr=finetune_lr)
+for it in range(finetune_iters):
+    if torch.rand(1).item() < rehearsal_ratio:
+        x, y = get_batch_from_corpus()
+    else:
+        x, y = get_batch_from_finetune()
+    _, loss = model(x, y)
+    optimizer.zero_grad(set_to_none=True)
+    loss.backward()
+    torch.nn.utils.clip_grad_norm_(model.parameters(), grad_clip)
+    optimizer.step()
+    if it % eval_interval == 0:
+        print(f"  [finetune] step {it}: loss {loss.item():.4f}")
+        for q in test_questions:
+            print(f"    Q: {q}\n    A: {sample(q)[:150]}")
+
 torch.save(model.state_dict(), 'tmc_model.pt')
-print("Model saved.")
+print("\nModel saved to tmc_model.pt")

@@ -97,20 +97,41 @@ class MiniGPT(nn.Module):
         return logits, loss
 
     @torch.no_grad()
-    def generate(self, idx, max_new_tokens, tokenizer=None, stop_str="Q:"):
+    def generate(self, idx, max_new_tokens, tokenizer=None, stop_str="Q:",
+                 temperature=0.7, top_k=10, repetition_penalty=1.3, repetition_window=40):
         """
         Autoregressively generate up to max_new_tokens.
-        If a tokenizer is provided, generation stops early as soon as the
-        decoded text ends with stop_str (the "end of answer" marker used
-        in training: completion = answer + "Q:\\n").
+
+        - temperature / top_k: sample instead of always taking argmax. Pure
+          greedy argmax is what caused the "le le le le" / "t d t d" loops --
+          once the model hits an uncertain spot it deterministically repeats
+          itself forever. Sampling from the top_k most likely characters lets
+          it escape those loops.
+        - repetition_penalty: characters that already appeared recently get
+          their logits pushed down before sampling, so the model is
+          discouraged from immediately repeating itself.
+        - If a tokenizer is provided, generation stops early as soon as the
+          decoded text ends with stop_str (the "end of answer" marker used
+          in training: completion = answer + "Q:\\n").
         """
         self.eval()
         for _ in range(max_new_tokens):
             idx_cond = idx[:, -self.block_size:]
             logits, _ = self(idx_cond)
-            logits = logits[:, -1, :]
+            logits = logits[:, -1, :] / max(temperature, 1e-5)
+
+            # Repetition penalty: discourage recently-used characters
+            recent = idx[0, -repetition_window:].tolist()
+            for tok_id in set(recent):
+                logits[0, tok_id] /= repetition_penalty
+
+            # Top-k sampling
+            if top_k is not None:
+                v, _ = torch.topk(logits, min(top_k, logits.size(-1)))
+                logits[logits < v[:, [-1]]] = float('-inf')
+
             probs = F.softmax(logits, dim=-1)
-            idx_next = torch.argmax(probs, dim=-1, keepdim=True)
+            idx_next = torch.multinomial(probs, num_samples=1)
             idx = torch.cat((idx, idx_next), dim=1)
 
             if tokenizer is not None:
