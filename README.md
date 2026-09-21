@@ -24,8 +24,4 @@ The project is still a work in progress as I continue learning and experimenting
 
 The main goal of this repository is to learn and practice the fundamentals of building an AI language model without relying entirely on existing AI APIs or pre-built models.
 
-## Status
 
-**Work in Progress**
-
-This project is mainly for learning, experimentation, and practice.
